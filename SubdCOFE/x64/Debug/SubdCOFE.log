@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\COFED\source\repos\SubdCOFE\SubdCOFE\main.cpp(12,11): warning C4101: file: неиспользованная локальная переменная
+C:\Users\COFED\source\repos\SubdCOFE\SubdCOFE\main.cpp(11,9): warning C4101: option: неиспользованная локальная переменная
+C:\Users\COFED\source\repos\SubdCOFE\SubdCOFE\main.cpp(14,11): warning C4101: token: неиспользованная локальная переменная
+  SubdCOFE.vcxproj -> C:\Users\COFED\source\repos\SubdCOFE\x64\Debug\SubdCOFE.exe
